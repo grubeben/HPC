@@ -1,0 +1,6 @@
+(1) recf / send / test buffer size adaption to ceil(count/blocksize)*blocksize 
+    ==> dadapt benchmark mem allocation
+    ==> implementation in ex4 2 1
+
+3. Try both exercises for nicht teilbare Kombinationen von count und blocksize
+4. Ab ins Headerfile DONE
