@@ -1,7 +1,9 @@
 *** High Performance Computing Project 2023 ***
-### Implementation, improvement and comparison of
+
+// Implementation, improvement and comparison of
 different pipelined MPI-Allreduce algorithms for
-(non-)commutative operators
+(non-)commutative operators //
+
 Authors: Benjamin Gruber and Dominik Freinberger
 
 Content:
