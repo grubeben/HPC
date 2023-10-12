@@ -1,5 +1,5 @@
-*** Readme for the 184.725 High Performance Computing Course 2023 ***
-Authors: Benjamin Gruber (11770987) and Dominik Freinberger (11708140)
+*** High Performance Computing Project 2023 ***
+Authors: Benjamin Gruber and Dominik Freinberger
 
 Content:
 - Overview of submitted files
@@ -8,7 +8,7 @@ Content:
     (.) 'benchmark.c'
 
 ---------------------
-// SUBMITTED FILES //
+// FILES //
 ---------------------
 
 -> README.txt
